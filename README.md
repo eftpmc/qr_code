@@ -11,6 +11,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: https://github.com/eftpmc/qr_code
+- Live Site URL: https://qr-code-1ifs15485-eftpmc.vercel.app/
+
 
 ## My process
 
